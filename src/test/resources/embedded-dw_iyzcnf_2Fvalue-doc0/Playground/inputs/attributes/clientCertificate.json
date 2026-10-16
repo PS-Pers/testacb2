@@ -1,0 +1,75 @@
+{
+  "basicConstraints": 31,
+  "criticalExtensionOIDs": [
+    "felis",
+    "consectetur",
+    "tempor"
+  ],
+  "extendedKeyUsage": [
+    "molestie",
+    "libero",
+    "pretium"
+  ],
+  "extensions": [
+    {
+      "criticality": true,
+      "oid": "pulvinar"
+    }
+  ],
+  "issuerAlternativeNames": [
+    {
+      "name": "Alba",
+      "type": 69
+    }
+  ],
+  "issuerDN": {
+    "commonName": "pulvinar",
+    "name": "Adela"
+  },
+  "issuerUniqueID": [
+    true,
+    true
+  ],
+  "issuerX500Principal": {
+    "name": "Adalberto"
+  },
+  "keyUsage": [
+    true,
+    false,
+    true
+  ],
+  "name": "Alpha",
+  "nonCriticalExtensionOIDs": [
+    "justo",
+    "ipsum"
+  ],
+  "notAfter": "2025-01-17",
+  "notBefore": "2022-04-14",
+  "publicKey": {
+    "algorithm": "faucibus",
+    "modulus": 58,
+    "params": 44,
+    "publicKey": "erat"
+  },
+  "serialNumber": 25,
+  "serialNumberObject": {
+    "serialNumber": 36
+  },
+  "sigAlgName": "In",
+  "sigAlgOID": "nunc",
+  "subjectAlternativeNames": [
+    {
+      "name": "Chester",
+      "type": 33
+    }
+  ],
+  "subjectDN": {
+    "commonName": "ut",
+    "name": "Adolfo"
+  },
+  "subjectX500Principal": {
+    "name": "Alyce"
+  },
+  "type": "elit",
+  "version": 24
+}
